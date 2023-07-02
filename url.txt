@@ -1,4 +1,4 @@
 user = fullstackmarcelo
 password = Chimonchin8.
 https://github.com/fullstackmarcelo/fullstack.git
-token = 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
+token = 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 
