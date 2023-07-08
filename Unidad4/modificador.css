@@ -1,0 +1,24 @@
+a{
+    color: red;
+}
+
+b{
+    font-style: italic;
+}
+
+h1{
+    color:white;
+    background-color: blue;
+}
+
+h2{
+    font-family: 'Times New Roman';
+}
+
+h3{
+    color: blue;
+}
+
+li{
+    font-style: oblique;
+}
